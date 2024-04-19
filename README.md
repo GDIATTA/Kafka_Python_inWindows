@@ -1,6 +1,6 @@
 # Kafka_Python_inWindows
 #### Install and run Apache Kafka & Integration with Python using Kafka-Python
--- Firstime, I need to go the website to download Kafka and then extract the file from zip :
+-- Firstime, I need to go the website to download Kafka and then extract the file from zip ://
 https://Kafka.apache.org/downloads
 
 -- I need to create 2 folders in my C drive-- :
